@@ -1,0 +1,11 @@
+﻿{
+  "stack-name": "basicframework-stacks-triggers",
+  "s3-bucket": "basicframework-stacks-triggers",
+  "profile": "ms-dev",
+  "region": "eu-west-2",
+  "configuration": "Release",
+  "framework": "netcoreapp2.1",
+  "s3-prefix": "Triggers/",
+  "template": "serverless.yml",
+  "template-parameters": ""
+}
